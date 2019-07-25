@@ -1,0 +1,13 @@
+.banner {
+  background-image: url(../../images/background.png);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  height: 600px;
+}
+
+.banner p {
+  font-size: 20px;
+  color: rgba(180,180,180,1);
+}
